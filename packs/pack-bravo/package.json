@@ -1,0 +1,9 @@
+{
+  "name": "cribl-45838-pack-bravo",
+  "displayName": "CRIBL-45838 Pack Bravo",
+  "version": "1.0.0",
+  "description": "Second independent pack for repository-relative Git dependency testing",
+  "tags": {
+    "streamtags": []
+  }
+}

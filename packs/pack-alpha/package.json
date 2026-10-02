@@ -1,0 +1,9 @@
+{
+  "name": "cribl-45838-pack-alpha",
+  "displayName": "CRIBL-45838 Pack Alpha",
+  "version": "1.0.0",
+  "description": "First independent pack for repository-relative Git dependency testing",
+  "tags": {
+    "streamtags": []
+  }
+}

@@ -1,0 +1,10 @@
+functions:
+  - id: eval
+    filter: "true"
+    disabled: false
+    conf:
+      add:
+        - name: cribl_45838_pack
+          value: "'alpha'"
+      remove: []
+groups: {}
